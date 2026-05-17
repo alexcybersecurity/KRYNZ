@@ -1,13 +1,7 @@
 # KRYNZ
 Source files for KRYNZ: A custom 16-bit bootloader Tetris environment and MBR overwriter payload. Provided as raw source code for educational compilation and emulation research.
 |
-|
-|
-|
 An advanced low-level programming experiment combining a bare-metal 16-bit x86 operating environment, a fully functional Tetris game engine written in Assembly, and a user-triggered Master Boot Record (MBR) overwriting payload written in C++. 
-|
-|
-|
 |
 Inspired by legacy internet history malware aesthetics (like MEMZ and WannaCry), this project serves as an educational dive into legacy hardware orchestration, real-mode interruption vectors, and sector-zero volatility.
 
